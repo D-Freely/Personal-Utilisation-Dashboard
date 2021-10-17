@@ -13,4 +13,4 @@ At my job, the only tool we had to process personal utilisation data was an outd
 The dashboard is showcased in the following gif:
 
 
-![Animation](https://user-images.githubusercontent.com/92688098/137644770-5ca4d8ce-f05b-4e5e-820a-220807c9be23.gif)
+![Animation2](https://user-images.githubusercontent.com/92688098/137645624-80c07fdd-3bee-4c07-9ecc-4ef115f16c2f.gif)
