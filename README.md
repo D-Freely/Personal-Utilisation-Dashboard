@@ -1,5 +1,5 @@
 # Personal-Utilisation-Dashboard
-Python script which creates an interactive dashboard from work utilisation data.
+Python script which creates an interactive dash web application from work utilisation data.
 
 Python libraries used:
 - Pandas
