@@ -11,7 +11,7 @@ from dash.dependencies import Input, Output
 
 # USER INPUT SECTION
 
-util_report_path = '/Users/dfreely001/Documents/Python Scripts/Utilisation Dashboard/Util report - 042019_062020.csv'
+util_report_path = '.../Util report - 042019_062020.csv'
 
 # --------------------
 
